@@ -16,8 +16,8 @@ Ed ecco perchè "Flutter Focus" è nato! Sinceramente lo consiglio anche ai più
 
 Il codice rispecchia fedelmente la struttura descritta nella prima sezione del corso "Flutter Advanced" ed usa gli stessi pattern.
 
-Durante le varie sezioni del corso sono andato a mettere l'attenzione su spefici sezioni dell'app (come il login, sessioni, validazione form, ecc...), qui nel codice potrete invece vedere come il tutto si incastra. Ho cercato anche di commentare le parti principali dell'app, naturalmente per qualsiasi domanda trovate lo spazio "Flutter Focus" sulla piattaforma:
-- [LINK_SPAZIO_FLUTTER_FOCUS](LINK_SPAZIO_FLUTTER_FOCUS)
+Durante le varie sezioni del corso sono andato a mettere l'attenzione su spefici sezioni dell'app (come il login, sessioni, validazione form, ecc...), qui nel codice potrete invece vedere come il tutto si incastra. Ho cercato anche di commentare le parti principali dell'app, naturalmente per qualsiasi domanda potete tranquillamente farla sullo spazio "Generale" sulla piattaforma:
+- [Vai allo spazio Generale sulla piattaforma](https://edu.fudeo.it/app/space/3c2217d4-1171-4a2e-815d-6d583cf0ade8)
 
 # Miglioramenti futuri
 

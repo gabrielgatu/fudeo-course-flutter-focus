@@ -26,7 +26,10 @@ class SessionRepository {
     this.jwt = jwt;
 
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    prefs.setString("TOKEN", jwt);
+    if (jwt == null)
+      prefs.remove("TOKEN");
+    else
+      prefs.setString("TOKEN", jwt);
   }
 
   void logout() {
